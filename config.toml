@@ -23,19 +23,18 @@ copyright = "© {year}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   email = "mailto:info@lauraaskani.com"
   # github = "https://github.com/x"
-  # linkedin = "https://linkedin.com/in/x"
+  linkedin = "https://linkedin.com/in/laura-askani-gräf-09426682"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
-  # instagram = "https://instagram.com/<your handle>"
-  # linkedin = "<link to your profile>"
-  # youtube = "https://www.youtube.com/channel/<your channel>"
-    twitter = "https://twitter.com/segraef"
+  instagram = "https://instagram.com/lauraaskani"
+  youtube = "https://www.youtube.com/c/LauraAskani"
+  # twitter = "https://twitter.com/segraef"
 
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub", "LinkedIn", "Email"]
+  iconOrder = ["instagram", "youtube", "linkedin", "email"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
@@ -72,8 +71,8 @@ copyright = "© {year}"
 #  weight = -100
 
 [[menu.main]]
-  identifier = "imprint"
-  name = "imprint"
-  title = "Imprint"
+  identifier = "impressum"
+  name = "impressum"
+  title = "Impressum"
   url = "/post/imprint"
   weight = -100
