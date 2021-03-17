@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Laura Askani</title>
+    <link>https://segraef.github.io/lauraaskani.com/post/</link>
+    <description>Recent content in Posts on Laura Askani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Wed, 17 Mar 2021 18:43:35 +0800</lastBuildDate><atom:link href="https://segraef.github.io/lauraaskani.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imprint</title>
+      <link>https://segraef.github.io/lauraaskani.com/post/imprint/</link>
+      <pubDate>Wed, 17 Mar 2021 18:43:35 +0800</pubDate>
+      
+      <guid>https://segraef.github.io/lauraaskani.com/post/imprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
