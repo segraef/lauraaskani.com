@@ -5,21 +5,26 @@ draft: false
 ---
 
 ## Angaben gemäß § 5 TMG
-Laura Askani-Gräf<br>
-Walkürenstr. 8<br>
+Laura Askani-Gräf
+
+Walkürenstr. 8
+
 67059 Ludwigshafen
 
 ## Kontakt
 E-Mail: info[at]lauraaskani.com
 
 ### Redaktionell Verantwortliche
-Laura Askani-Gräf<br>
-Walkürenstr. 8<br>
+Laura Askani-Gräf
+
+Walkürenstr. 8
+
 67059 Ludwigshafen
 
 ## EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
-https://ec.europa.eu/consumers/odr.<br>
+https://ec.europa.eu/consumers/odr.
+
 Meine E-Mail-Adresse finden Sie oben im Impressum.
 
 ## Verbraucherstreitbeilegung/Universalschlichtungsstelle
